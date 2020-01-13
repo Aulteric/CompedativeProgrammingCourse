@@ -1,0 +1,11 @@
+C:\Visual Studio 2019\Repos\PuAssignments\exam-prep\bin\Debug\netcoreapp3.0\exam-prep.exe
+C:\Visual Studio 2019\Repos\PuAssignments\exam-prep\bin\Debug\netcoreapp3.0\exam-prep.deps.json
+C:\Visual Studio 2019\Repos\PuAssignments\exam-prep\bin\Debug\netcoreapp3.0\exam-prep.runtimeconfig.json
+C:\Visual Studio 2019\Repos\PuAssignments\exam-prep\bin\Debug\netcoreapp3.0\exam-prep.runtimeconfig.dev.json
+C:\Visual Studio 2019\Repos\PuAssignments\exam-prep\bin\Debug\netcoreapp3.0\exam-prep.dll
+C:\Visual Studio 2019\Repos\PuAssignments\exam-prep\bin\Debug\netcoreapp3.0\exam-prep.pdb
+C:\Visual Studio 2019\Repos\PuAssignments\exam-prep\obj\Debug\netcoreapp3.0\exam-prep.csprojAssemblyReference.cache
+C:\Visual Studio 2019\Repos\PuAssignments\exam-prep\obj\Debug\netcoreapp3.0\exam-prep.AssemblyInfoInputs.cache
+C:\Visual Studio 2019\Repos\PuAssignments\exam-prep\obj\Debug\netcoreapp3.0\exam-prep.AssemblyInfo.cs
+C:\Visual Studio 2019\Repos\PuAssignments\exam-prep\obj\Debug\netcoreapp3.0\exam-prep.dll
+C:\Visual Studio 2019\Repos\PuAssignments\exam-prep\obj\Debug\netcoreapp3.0\exam-prep.pdb

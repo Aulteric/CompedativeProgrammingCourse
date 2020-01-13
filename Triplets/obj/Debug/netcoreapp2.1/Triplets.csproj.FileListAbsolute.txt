@@ -1,0 +1,10 @@
+C:\Visual Studio 2019\Repos\PuAssignments\Triplets\bin\Debug\netcoreapp2.1\Triplets.deps.json
+C:\Visual Studio 2019\Repos\PuAssignments\Triplets\bin\Debug\netcoreapp2.1\Triplets.runtimeconfig.json
+C:\Visual Studio 2019\Repos\PuAssignments\Triplets\bin\Debug\netcoreapp2.1\Triplets.runtimeconfig.dev.json
+C:\Visual Studio 2019\Repos\PuAssignments\Triplets\bin\Debug\netcoreapp2.1\Triplets.dll
+C:\Visual Studio 2019\Repos\PuAssignments\Triplets\bin\Debug\netcoreapp2.1\Triplets.pdb
+C:\Visual Studio 2019\Repos\PuAssignments\Triplets\obj\Debug\netcoreapp2.1\Triplets.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2019\Repos\PuAssignments\Triplets\obj\Debug\netcoreapp2.1\Triplets.AssemblyInfoInputs.cache
+C:\Visual Studio 2019\Repos\PuAssignments\Triplets\obj\Debug\netcoreapp2.1\Triplets.AssemblyInfo.cs
+C:\Visual Studio 2019\Repos\PuAssignments\Triplets\obj\Debug\netcoreapp2.1\Triplets.dll
+C:\Visual Studio 2019\Repos\PuAssignments\Triplets\obj\Debug\netcoreapp2.1\Triplets.pdb

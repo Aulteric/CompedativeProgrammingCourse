@@ -1,0 +1,11 @@
+C:\Visual Studio 2019\Repos\PuAssignments\TestingMidClass\bin\Debug\netcoreapp2.1\TestingMidClass.deps.json
+C:\Visual Studio 2019\Repos\PuAssignments\TestingMidClass\bin\Debug\netcoreapp2.1\TestingMidClass.runtimeconfig.json
+C:\Visual Studio 2019\Repos\PuAssignments\TestingMidClass\bin\Debug\netcoreapp2.1\TestingMidClass.runtimeconfig.dev.json
+C:\Visual Studio 2019\Repos\PuAssignments\TestingMidClass\bin\Debug\netcoreapp2.1\TestingMidClass.dll
+C:\Visual Studio 2019\Repos\PuAssignments\TestingMidClass\bin\Debug\netcoreapp2.1\TestingMidClass.pdb
+C:\Visual Studio 2019\Repos\PuAssignments\TestingMidClass\obj\Debug\netcoreapp2.1\TestingMidClass.csprojAssemblyReference.cache
+C:\Visual Studio 2019\Repos\PuAssignments\TestingMidClass\obj\Debug\netcoreapp2.1\TestingMidClass.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2019\Repos\PuAssignments\TestingMidClass\obj\Debug\netcoreapp2.1\TestingMidClass.AssemblyInfoInputs.cache
+C:\Visual Studio 2019\Repos\PuAssignments\TestingMidClass\obj\Debug\netcoreapp2.1\TestingMidClass.AssemblyInfo.cs
+C:\Visual Studio 2019\Repos\PuAssignments\TestingMidClass\obj\Debug\netcoreapp2.1\TestingMidClass.dll
+C:\Visual Studio 2019\Repos\PuAssignments\TestingMidClass\obj\Debug\netcoreapp2.1\TestingMidClass.pdb

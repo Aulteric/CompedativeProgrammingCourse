@@ -1,0 +1,11 @@
+C:\Visual Studio 2019\Repos\PuAssignments\PuAssignments\bin\Debug\netcoreapp2.1\PuAssignments.deps.json
+C:\Visual Studio 2019\Repos\PuAssignments\PuAssignments\bin\Debug\netcoreapp2.1\PuAssignments.runtimeconfig.json
+C:\Visual Studio 2019\Repos\PuAssignments\PuAssignments\bin\Debug\netcoreapp2.1\PuAssignments.runtimeconfig.dev.json
+C:\Visual Studio 2019\Repos\PuAssignments\PuAssignments\bin\Debug\netcoreapp2.1\PuAssignments.dll
+C:\Visual Studio 2019\Repos\PuAssignments\PuAssignments\bin\Debug\netcoreapp2.1\PuAssignments.pdb
+C:\Visual Studio 2019\Repos\PuAssignments\PuAssignments\obj\Debug\netcoreapp2.1\PuAssignments.csprojAssemblyReference.cache
+C:\Visual Studio 2019\Repos\PuAssignments\PuAssignments\obj\Debug\netcoreapp2.1\PuAssignments.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2019\Repos\PuAssignments\PuAssignments\obj\Debug\netcoreapp2.1\PuAssignments.AssemblyInfoInputs.cache
+C:\Visual Studio 2019\Repos\PuAssignments\PuAssignments\obj\Debug\netcoreapp2.1\PuAssignments.AssemblyInfo.cs
+C:\Visual Studio 2019\Repos\PuAssignments\PuAssignments\obj\Debug\netcoreapp2.1\PuAssignments.dll
+C:\Visual Studio 2019\Repos\PuAssignments\PuAssignments\obj\Debug\netcoreapp2.1\PuAssignments.pdb
